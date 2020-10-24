@@ -13,6 +13,7 @@ body {
   
     /* Visual */
     background: #e7ebef;
+    padding-block-end: 10px;
   }
   
   header {
